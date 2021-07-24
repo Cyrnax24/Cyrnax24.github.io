@@ -2,7 +2,7 @@ const config = {
     USERNAME: "Cyrnaxx.#9999",
     PICTURE: "assets/img/profile_picture.gif",
 
-    DESCRIPTION: "JavaScript developer. Staff of many servers. Many projects like development. Moderates and administers servers.",
+    DESCRIPTION: "~The life is a challenge to be met, a happiness to be earned, an adventure to be attempted.~<br>~La vie est un défi à relever, un bonheur à mériter, une aventure à tenter.~",
 
     BADGES: [
         { id: "HypeSquad Balance", image: "https://discord.com/assets/9fdc63ef8a3cc1617c7586286c34e4f1.svg" },

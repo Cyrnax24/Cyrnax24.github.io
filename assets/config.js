@@ -1,6 +1,6 @@
 const config = {
     USERNAME: "Cyrnaxx.#9999",
-    PICTURE: "assets/img/profile_picture1.png",
+    PICTURE: "assets/img/profile_pictureup.png",
 
     DESCRIPTION: "~The life is a challenge to be met, a happiness to be earned, an adventure to be attempted.~<br>~La vie est un défi à relever, un bonheur à mériter, une aventure à tenter.~",
 

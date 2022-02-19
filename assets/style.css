@@ -149,11 +149,11 @@ hr {
     font-size: 20px;
 }
 
-@media (max-width: 600px) { 
+body {
+    overflow-y: scroll !important;
+}
 
-    body {
-        overflow-y: scroll !important;
-    }
+@media (max-width: 600px) { 
 
     .box.profile {
         width: 100%;
@@ -163,4 +163,4 @@ hr {
 
     .top-part { border-radius: 0; }
     .bottom-part { border-radius: 0; }
- }
+}

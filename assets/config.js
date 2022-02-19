@@ -8,7 +8,7 @@ const config = {
     BADGES: [
         { id: "Discord Certified Moderator", image: "https://cdn.discordapp.com/emojis/921744998054117426.png" },
         { id: "HypeSquad Balance", image: "https://cdn.discordapp.com/emojis/902664136897474570.png" },
-        { id: "Nitro Sub", image: "https://cdn.discordapp.com/emojis/903018530176397352.png" },
+        //{ id: "Nitro Sub", image: "https://cdn.discordapp.com/emojis/903018530176397352.png" },
     ],
 
     PROJECTS: [
